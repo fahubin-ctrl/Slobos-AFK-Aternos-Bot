@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "bayupayu.aternos.me:31127",
+    "port": 31127,
     "version": "",
     "try-creative": false
   },
