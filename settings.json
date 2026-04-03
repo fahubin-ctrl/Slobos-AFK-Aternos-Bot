@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bayupayu.aternos.me:31127",
+    "ip": "bayupayu.aternos.me",
     "port": 31127,
     "version": "",
     "try-creative": false
